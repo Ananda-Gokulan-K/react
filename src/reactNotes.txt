@@ -1,0 +1,4 @@
+component - class,function
+router-
+git log
+git commit --amend  // add to commit when not push
